@@ -1,3 +1,4 @@
 # geth-test
 ----
 foo
+foo
